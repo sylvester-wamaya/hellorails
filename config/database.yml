@@ -24,7 +24,7 @@ default: &default
 development:
   <<: *default
   username: postgres
-  password: Wa.ma.84
+  password: ****
   database: hellorails_development
   host: localhost
 
